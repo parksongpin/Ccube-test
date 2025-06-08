@@ -1,0 +1,5 @@
+file.txt
+git add .
+git add file.txt
+git commit - m "텍스트 파일 생성"
+git commit
